@@ -1,0 +1,19 @@
+.header-space {
+    width: 100vw;
+    height: 130px;
+    background-color: #3d405b;
+    position: fixed;
+    top: 0;
+    left: 0;
+    border-bottom: 1px solid #fff;
+
+    .site-logo {
+        width: 350px;
+        height: 125px;
+        background-image: url(../images/logo-neon-350x125.jpg);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+
+}
